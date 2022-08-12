@@ -56,10 +56,7 @@ class GlassdoorReviewScrapper(object):
        
     def get_next_page(self):
         idx = self.link.index('.htm?')
-        print(self.link[idx:])
-        print(idx)
-        print("\n\n NEXT PAGING")
-        print(self.JSON_data)
+        
         if self.link[idx-1] in digits:
             page_number = int(self.link[idx-1]) + 1
             return self.link[:idx-1] + str(page_number) + self.link[idx:]
