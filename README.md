@@ -4,15 +4,15 @@ Web scrapper and soon to be Web crawler in JSON exportable format.
 Why: Employee satisfaction is considered the number one predictor of company stock performance
 
 ## Example Data Format:
-```json
+```yaml
 {
-    '0': {
+    0: {
     'rater': 'Jul 16, 2022 - Anonymous Employee',
     'pros': 'Good Company for technical growth',
     'cons': 'No cons, great company to work for.',
     'rating': '5.0'
     },
-   '1': {
+   1: {
    'rater': 'Jun 24, 2022 - Data Scientist',
     'pros': 'good work culture,flexible work hours',
     'cons': 'not much to say about improvements',
