@@ -1,7 +1,11 @@
-# Glassdoor-Reviews-QC
-Web scrapper and soon to be Web crawler in JSON exportable format.
+# Glassdoor-Reviews-QC  
 
-Why: Employee satisfaction is considered the number one predictor of company stock performance
+Web scrapper & crawler that produces JSON and pandas DataFrame format exportable data. Repo will likely be refacted so the data can be exported to my sql server for a pyspark & apache project.
+
+Utility: Employee satisfaction is considered the number one predictor of company stock performance  
+
+QC: A similar, solved problem; https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1155  
+
 
 ## Example Data Format:
 ```yaml
