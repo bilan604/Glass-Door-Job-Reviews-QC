@@ -2,10 +2,10 @@
 
 Web scrapper & crawler that produces JSON and pandas DataFrame format exportable data. Repo will likely be refacted so the data can be exported to my sql server for a pyspark & apache project.
 
-Utility: Employee satisfaction is considered the number one predictor of company stock performance  
+"high-transparency" reviews: https://www.glassdoor.com/Reviews/Glassdoor-Reviews-E100431.htm
+(Glassdoor's Reviews for Glassdoor)
 
 QC: A similar, solved problem; https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1155  
-
 
 ## Example Data Format:
 ```yaml
