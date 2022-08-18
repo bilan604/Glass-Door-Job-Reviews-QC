@@ -1,6 +1,6 @@
 # Glassdoor-Reviews-QC  
 
-Web scrapper & crawler that produces JSON and pandas DataFrame format exportable data. Repo will likely be refacted so the data can be exported to my sql server for a pyspark & apache project.
+Web scrapper & crawler that produces JSON and pandas DataFrame format exportable data.
 
 ## Example Data Format:
 ```yaml
