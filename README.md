@@ -1,4 +1,4 @@
-# Glassdoor-Reviews-QC  
+# Glassdoor-Reviews-Scraper  
 
 Web scrapper & crawler that produces JSON and pandas DataFrame format exportable data.
 
