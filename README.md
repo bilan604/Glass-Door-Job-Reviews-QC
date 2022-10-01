@@ -2,6 +2,8 @@
 
 Web scrapper & crawler that produces JSON and pandas DataFrame format exportable data.
 
+Basically, you give it a link, a string, and it gets all the reviews and all the pages for that company. Usage example at the bottom of "GlassdoorReviewBot.py". Its two lines of code.  
+
 ## Example Data Format:
 ```yaml
 {
