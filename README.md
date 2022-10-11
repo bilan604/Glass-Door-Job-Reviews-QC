@@ -1,6 +1,6 @@
 # Glassdoor-Reviews-Scraper  
 
-Web scrapper & crawler that produces JSON and pandas DataFrame format exportable data.
+Web scrapper & crawler that produces JSON and pandas DataFrame format exportable data. Development Timeline: 08/11 & 08/12, around 4 hours total work.
 
 Basically, you give it a link, a string, and it gets all the reviews and all the pages for that company. Usage example at the bottom of "GlassdoorReviewBot.py". Its two lines of code.  
 
